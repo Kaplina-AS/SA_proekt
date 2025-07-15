@@ -1,6 +1,6 @@
 # Диаграммы последовательности для пользовательских сценариев
 
-1. [SD-01](Sequence/diag1.md)
+1. [SD-01: Регистрация и создание профиля](Sequence/diag1.md)
 2. [SD-02](Sequence/diag2.md)
 3. [SD-03](Sequence/diag3.md)
 4. [SD-04](Sequence/diag4.md)
