@@ -1,3 +1,3 @@
 # Sequence Diagramm : UC-02 : Отслеживание тренировки
 
-![Sequence Diagramm : UC-02 : Отслеживание тренировки](Sequence/seq2.png)
+![Sequence Diagramm : UC-02 : Отслеживание тренировки](seq2.png)
